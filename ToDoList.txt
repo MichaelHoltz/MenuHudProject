@@ -12,6 +12,8 @@ Late Join to Game in progress
 
 Enemy 
 	Create Basic Patrol AI to move left and right until hitting obstical
+	Create Basic AI Character since all are hybrid with player state and controller
+	
 	
 Ammo
 		Link to firing to reduce ammo
