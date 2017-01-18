@@ -1,0 +1,38 @@
+Video Settings HUD
+	* sg.PostProcessQuality 0-4
+	* sg.EffectsQuality 0-4
+	* Full Screen Or Windowed
+	* Screen Resolution
+	* Screen Percentage
+	Investigate why timeline functions are affected by resizing the window which throws of position of moving things
+	
+Late Join to Game in progress
+	* Select Character doesn't show and may not know what is taken and what is available.
+	* Can't select which game if multiple were an option.
+
+Enemy 
+	Create Basic Patrol AI to move left and right until hitting obstical
+	
+Ammo
+		Link to firing to reduce ammo
+		
+Firing 
+		Link to available ammo and Energy.
+		Sound effect for firing per projectile.
+Armor
+	Add to HUD
+Teams
+	Auto Join Team and auto balance
+
+Flag
+	Auto Regenerate at home location if dropped, after 5 seconds. Sound effects?
+	How to capture from base? 
+	Points for Capture.
+	Sound effects for Planting Flag 
+	
+Timelines - 
+	* Creeping away from desired locations
+	
+ItemAutoSpawn
+	*Multiple Items on start of multiplayer
+	
