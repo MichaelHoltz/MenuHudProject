@@ -1,40 +1,55 @@
 Video Settings HUD
-	* sg.PostProcessQuality 0-4
-	* sg.EffectsQuality 0-4
-	* Full Screen Or Windowed
-	* Screen Resolution
-	* Screen Percentage
+	O sg.PostProcessQuality 0-4
+	O sg.EffectsQuality 0-4
+	O Full Screen Or Windowed
+	O Screen Resolution
+	O Screen Percentage
 	Investigate why timeline functions are affected by resizing the window which throws of position of moving things
 	
 Late Join to Game in progress
-	* Select Character doesn't show and may not know what is taken and what is available.
-	* Can't select which game if multiple were an option.
+	O Select Character doesn't show and may not know what is taken and what is available.
+	O Can't select which game if multiple were an option.
 
 Enemy 
-	Create Basic Patrol AI to move left and right until hitting obstical
-	Create Basic AI Character since all are hybrid with player state and controller
+	O Create Basic Patrol AI to move left and right until hitting obstical
+	# Create Basic AI Character since all are hybrid with player state and controller
+	O Modify AI Behavior tree to make patrol
 	
 	
 Ammo
-		Link to firing to reduce ammo
+	# Link to firing to reduce ammo
+	O Different types of ammo
+	O HUD for current AMMO / Weapon - Switch by Controller and number keys? 
 		
 Firing 
-		Link to available ammo and Energy.
-		Sound effect for firing per projectile.
+	O Link to available ammo and Energy.
+	O Sound Effects
+
 Armor
-	Add to HUD
+	O Add to HUD
+	O Add Armor Items to pick up
 Teams
-	Auto Join Team and auto balance
+	O Auto Join Team and auto balance
+	
+NameAndHealth Widget 
+	O position issues.
+	# Replication for in game multi client Health Dropping 
 
 Flag
-	Auto Regenerate at home location if dropped, after 5 seconds. Sound effects?
-	How to capture from base? 
-	Points for Capture.
-	Sound effects for Planting Flag 
+	O Auto Regenerate at home location if dropped, after 5 seconds. Sound effects?
+	O How to capture from base? 
+	O Points for Capture.
+	O Sound effects for Planting Flag 
 	
 Timelines - 
-	* Creeping away from desired locations
+	O Creeping away from desired locations
+	# Syncronized for MultiPlayer
 	
 ItemAutoSpawn
-	*Multiple Items on start of multiplayer
-	
+	O Multiple Items on start of multiplayer
+
+Maps
+	O Screen Shot for Selection
+	O more than 2 to choose from.
+	O Map Cycling
+	O Map Timer (HUD connected to options HUD)
