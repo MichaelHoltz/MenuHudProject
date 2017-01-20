@@ -53,3 +53,7 @@ Maps
 	O more than 2 to choose from.
 	O Map Cycling
 	O Map Timer (HUD connected to options HUD)
+	Arena01 - CTFArena01
+	Arena02 - Arena01
+	Arena02 - Arena02
+	Arena02 - StagingArea
