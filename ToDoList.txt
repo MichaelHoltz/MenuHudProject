@@ -57,3 +57,6 @@ Maps
 	Arena02 - Arena01
 	Arena02 - Arena02
 	Arena02 - StagingArea
+
+Sounds:
+http://soundfxcenter.com/sound_effect/search.php?sfx=Angry%20Birds&st=14	
